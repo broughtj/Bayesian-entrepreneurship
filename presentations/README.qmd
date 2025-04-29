@@ -1,0 +1,6 @@
+---
+title: "Presentations for Economic Calculation and Bayesian Entrepreneurship"
+format: gfm
+---
+
+

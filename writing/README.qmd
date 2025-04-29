@@ -1,0 +1,6 @@
+---
+title: "Manuscript for Economic Calculation and Bayesian Entrepreneurship"
+format: gfm
+---
+
+

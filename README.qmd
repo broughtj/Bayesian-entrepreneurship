@@ -1,0 +1,7 @@
+---
+title: "Economic Calculation and Bayesian Entrepreneurship"
+format: gfm
+---
+
+
+- Mises-Hayek meet de Finetti-Savage
