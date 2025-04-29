@@ -1,0 +1,28 @@
+---
+title: "Study Guide for Economic Calculation and Bayesian Entrepreneurship"
+bibliography: references.bib
+format: pdf
+---
+
+# Introduction
+
+What happens when you marry the dynamic disequilibrium market microstructure of Mises-Hayek with the subjective probability theory of de Finetti-Savage?
+
+
+## Economic Calculation 
+
+Articles to read and study together: 
+
+- @BoettkeAAE1998
+- @BoettkeCR1997
+- @BoettkeRAE2002
+- @HorwitzRAE2004
+
+
+## Bayesian Decision Theory
+
+- @GiocoliJHBS2013
+- @KieferNyarko1995
+
+
+# References 

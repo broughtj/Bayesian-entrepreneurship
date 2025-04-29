@@ -1,5 +1,6 @@
 ---
 title: "Manuscript for Economic Calculation and Bayesian Entrepreneurship"
+bibliography: references.bib
 format: gfm
 ---
 
