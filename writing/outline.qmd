@@ -1,0 +1,18 @@
+---
+title: "Project Outline"
+format: pdf
+---
+
+# Problem Statement 
+
+
+
+> *The losses incurred in the last half of 1993 certainly cast significant doubt upon the firm’s ability to predict the movements of oil prices. Given the huge losses incurred in late 1993, a Bayesian estimating the probability distribution of MG’s information advantage would almost certainly place little weight on the possibility that the firm was well informed, and great weight on the possibility that it did not possess superior information, regardless of the charitability of his priors concerning the prescience of MG’s managers.* -- @PirrongJFM1997
+
+
+Reconstructing Pirrong's Bayesian.
+
+
+# Outline: MGRM Revisited
+
+##  

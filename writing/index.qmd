@@ -1,0 +1,30 @@
+---
+title: "Economic Calculation and Bayesian Entrepreneurship"
+authors:
+  - name: Tyler J. Brough
+    affiliation: Utah State University
+  - name: Marc R. Dotson
+date: 05/30/2025
+bibliography: references.bib
+---
+
+::: abstract
+We will now proceed to entangle the entire area!
+:::
+
+\newpage
+
+{{< include _epigraphs.qmd >}}
+
+\newpage 
+
+
+# Introduction 
+
+{{< include _intro.qmd >}}
+
+
+\newpage 
+
+
+# References 

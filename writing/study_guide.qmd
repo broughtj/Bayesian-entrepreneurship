@@ -27,7 +27,7 @@ Articles to read and study together:
 
 ## Bayesian Entrepreneurship
 
-- @Nau2000
+- @Nau1999
 - @NauTD2001
 
 # References 
