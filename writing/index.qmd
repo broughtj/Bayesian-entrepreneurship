@@ -1,6 +1,8 @@
 ---
 title: "Economic Calculation and Bayesian Entrepreneurship"
 authors:
+  - name: Erin Beckman
+    affiliation: Utah State University
   - name: Tyler J. Brough
     affiliation: Utah State University
   - name: Marc R. Dotson
@@ -23,6 +25,54 @@ We will now proceed to entangle the entire area!
 
 {{< include _intro.qmd >}}
 
+
+\newpage 
+
+
+# Reconstrucing Pirrong's Rational Bayesian 
+
+{{< include _pirrong.qmd >}}
+
+\newpage 
+
+
+# The Neo-Classical Misunderstanding of MGMR's Hedging
+
+{{< include _neoclassical_misunderstanding.qmd >}}
+
+\newpage 
+
+
+# Misesian Economic Calculation 
+
+{{< include _economic_calculation.qmd >}}
+
+\newpage 
+
+
+# De Finetti's Operational Subjective Probability 
+
+{{< include _de_finetti.qmd >}}
+
+\newpage 
+
+
+# Bayesian Entrepreneurship with Bayesian Workflow
+
+{{< include _bayesian_entrepreneurship.qmd >}}
+
+\newpage 
+
+
+# MGRM Revisited 
+
+{{< include _mgrm_revisited.qmd >}}
+
+\newpage
+
+# Conclusion 
+
+{{< include _conclusion.qmd >}}
 
 \newpage 
 
